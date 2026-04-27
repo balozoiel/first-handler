@@ -1,7 +1,7 @@
 # first-handler
 
 ## Description
-My first-handler project
+A personal project for development and testing.
 
 ## Features
 - Modern development stack
@@ -19,12 +19,6 @@ My first-handler project
 ```bash
 npm install
 pip install -r requirements.txt
-```
-
-## Usage
-
-```bash
-npm start
 ```
 
 ## License
